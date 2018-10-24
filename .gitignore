@@ -59,4 +59,6 @@ typings/
 # dotenv environment variables file
 .env
 
-
+# auto generated .css and .map files
+.css
+.map
